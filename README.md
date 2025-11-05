@@ -482,11 +482,11 @@ z-10    - Elementos elevados
 
 ```tsx
 // Hero.tsx - Línea ~30
-<h1>Angel Caro</h1>
+<h1>Tu Nombre</h1>
 <p>Enginer Developer</p>
 
 // Contact.tsx - Líneas ~55-75
-value: 'carogale6@email.com'
+value: 'tuemail6@email.com'
 value: '+57 304 576 7455'
 
 // Footer.tsx - Línea ~50
