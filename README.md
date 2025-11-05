@@ -482,12 +482,12 @@ z-10    - Elementos elevados
 
 ```tsx
 // Hero.tsx - Línea ~30
-<h1>Tu Nombre</h1>
-<p>Tu Rol</p>
+<h1>Angel Caro</h1>
+<p>Enginer Developer</p>
 
 // Contact.tsx - Líneas ~55-75
-value: 'tu@email.com'
-value: '+52 123 456 7890'
+value: 'carogale6@email.com'
+value: '+57 304 576 7455'
 
 // Footer.tsx - Línea ~50
 <h3>Tu Nombre</h3>
@@ -499,7 +499,7 @@ value: '+52 123 456 7890'
 // Projects.tsx - Array de proyectos
 const projects = [
   {
-    title: "Nombre del Proyecto",
+    title: "Portafolio Web Interactivo",
     description: "Descripción detallada...",
     image: "url-de-unsplash",
     tags: ["React", "TypeScript", "Tailwind"],
