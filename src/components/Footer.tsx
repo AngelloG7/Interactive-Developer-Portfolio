@@ -140,7 +140,7 @@ export function Footer() {
               className={`${colors.textTertiary} text-center md:text-left`}
               whileHover={{ scale: 1.02 }}
             >
-              © {currentYear} Tu Nombre. Todos los derechos reservados.
+              © {currentYear} Angel Caro. Todos los derechos reservados.
             </motion.p>
             
             {/* Heart animation */}
@@ -165,7 +165,7 @@ export function Footer() {
               >
                 ♥
               </motion.span>
-              en México
+              en Colombia
             </motion.p>
           </div>
         </motion.div>

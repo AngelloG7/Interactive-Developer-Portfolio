@@ -71,7 +71,7 @@ export function Hero() {
             transition={{ delay: 0.2, duration: 0.8 }}
           >
             <span className={`inline-block px-4 py-2 bg-gradient-to-r ${colors.gradientBg} backdrop-blur-sm border border-${colors.border}/20 rounded-full mb-6 ${colors.textFull}`}>
-              👋 Hola, Soy Desarrollador de Software
+              👋 Hola, Soy Angello Desarrollador de Software
             </span>
           </motion.div>
 
